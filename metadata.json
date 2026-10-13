@@ -1,0 +1,6 @@
+{
+  "name": "ApexPitch - Soccer Analytics & Predictions",
+  "description": "Multi-tier low, medium, and high risk soccer predictions, historical outcome backtesting, team trends, and odds across international leagues and South African PSL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
